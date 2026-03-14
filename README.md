@@ -13,6 +13,8 @@ These workshops are designed to be run entirely in your web browser using **Goog
 5. Have fun building agents!
 
 ## 📂 Repository Structure
-- `module_01_intro/` - Introduction to Agentic AI and basic API calling.
-- `module_02_components/` - Building memory, tools, and reasoning loops.
-- `module_03_mcp/` - Deep dive into the Model Context Protocol.
+- `Workshop_01_CTI_Automation/` - Build an automated Cyber Threat Intelligence pipeline.
+- `Workshop_02_Threat_Hunting/` - Use AI to proactively hunt for network anomalies.
+- `Workshop_03_Network_Analysis/` - Leverage agents to analyze PCAP files and network flows.
+- `Workshop_04_Malware_Analysis/` - Use autonomous agents to perform malware behavior analysis safely.
+- `Workshop_05_FastMCP_Deploy/` - Build and deploy Model Context Protocol servers rapidly.
